@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="person">Person</string>
+    <string name="search_results">Search Results:</string>
+</resources>
